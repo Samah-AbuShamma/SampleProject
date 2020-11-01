@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainingProject", "TrainingProject\TrainingProject.csproj", "{ED7F059B-DE99-4461-A4CB-CF509D684704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTrainingProject", "AngularTrainingProject\AngularTrainingProject.csproj", "{DB2580FC-1483-4BC4-9334-F0CB718E38A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7F059B-DE99-4461-A4CB-CF509D684704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7F059B-DE99-4461-A4CB-CF509D684704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7F059B-DE99-4461-A4CB-CF509D684704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7F059B-DE99-4461-A4CB-CF509D684704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2580FC-1483-4BC4-9334-F0CB718E38A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2580FC-1483-4BC4-9334-F0CB718E38A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2580FC-1483-4BC4-9334-F0CB718E38A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2580FC-1483-4BC4-9334-F0CB718E38A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F6E53BC-C8D0-4F1B-9DA6-92F42DB2A61D}
+	EndGlobalSection
+EndGlobal
